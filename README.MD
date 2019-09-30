@@ -4,6 +4,7 @@
 * https://inst.eecs.berkeley.edu/~cs188/fa19/
 
 # NLP 
+* http://web.stanford.edu/class/cs224n/
 
 
 # Advanced Algorithms
